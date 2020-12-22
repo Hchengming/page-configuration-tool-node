@@ -1,0 +1,79 @@
+[{
+        "method": "POST",
+        "apeName": "开发区分类统计",
+        "aaaRequestUrl": "http://localhost:4000/testData/getKfqfltjData",
+        "param": [{ "name": "title", "description": "类型", "dataType": "string" }],
+        "returnField": [
+            { "key": "title", "label": "类型", "dataType": "string" },
+            { "key": "gs", "label": "个数", "dataType": "number" },
+            { "key": "mj", "label": "面积", "dataType": "number" }
+        ]
+    },
+    {
+        "method": "POST",
+        "apeName": "各区县开发面积统计",
+        "aaaRequestUrl": "http://localhost:4000/testData/getKfqydqkDataByKfqflqk",
+        "param": [
+            { "name": "qxmc", "description": "区县名称", "dataType": "string" }
+        ],
+        "returnField": [
+            { "key": "qxmc", "label": "区县名称", "dataType": "string" },
+            { "key": "qxmj", "label": "区县面积", "dataType": "number" }
+        ]
+    },
+    {
+        "method": "POST",
+        "apeName": "顶部栏测试数据1",
+        "aaaRequestUrl": "http://localhost:4000/testData/topBar1",
+        "param": [
+            { "name": "mj", "description": "面积", "dataType": "string" }
+        ],
+        "returnField": [
+            { "key": "mjname", "label": "标题", "dataType": "string" },
+            { "key": "mj", "label": "面积", "dataType": "number" }
+        ]
+    },
+    {
+        "method": "POST",
+        "apeName": "顶部栏测试数据2",
+        "aaaRequestUrl": "http://localhost:4000/testData/topBar2",
+        "param": [
+            { "name": "mj", "description": "面积", "dataType": "string" }
+        ],
+        "returnField": [
+            { "key": "mjname", "label": "标题", "dataType": "string" },
+            { "key": "mj", "label": "面积", "dataType": "number" },
+            { "key": "df", "label": "地方", "dataType": "string" }
+        ]
+    },
+    {
+        "method": "POST",
+        "apeName": "分页测试数据",
+        "aaaRequestUrl": "http://localhost:4000/testData/page1",
+        "param": [],
+        "returnField": [
+            { "key": "name", "label": "姓名", "dataType": "string" },
+            { "key": "height", "label": "身高", "dataType": "number" },
+            { "key": "weight", "label": "体重", "dataType": "number" },
+            { "key": "age", "label": "年龄", "dataType": "number" },
+            { "key": "sr", "label": "收入", "dataType": "number" }
+        ]
+    },
+    {
+        "method": "POST",
+        "apeName": "详情表格展示数据",
+        "aaaRequestUrl": "http://localhost:4000/testData/details",
+        "param": [],
+        "returnField": [
+            { "key": "name", "label": "姓名", "dataType": "string" },
+            { "key": "height", "label": "身高", "dataType": "string" },
+            { "key": "weight", "label": "体重", "dataType": "string" },
+            { "key": "age", "label": "年龄", "dataType": "string" },
+            { "key": "sr", "label": "收入", "dataType": "string" },
+            { "key": "xl", "label": "学历", "dataType": "string" },
+            { "key": "byxx", "label": "毕业学校", "dataType": "string" },
+            { "key": "zzbj", "label": "政治背景", "dataType": "string" },
+            { "key": "jg", "label": "籍贯", "dataType": "string" }
+        ]
+    }
+]

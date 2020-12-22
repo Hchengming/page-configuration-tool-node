@@ -1,0 +1,212 @@
+{
+    "getKfqydqkDataByKfqflqk": [
+        { "qxmc": "巴南区", "qxmj": "6863.45", "qxsl": null },
+        { "qxmc": "忠县", "qxmj": "702.89", "qxsl": null },
+        { "qxmc": "武隆区", "qxmj": "241.03", "qxsl": null },
+        { "qxmc": "巫山县", "qxmj": "68.74", "qxsl": null },
+        { "qxmc": "万盛经开区", "qxmj": "883.18", "qxsl": null },
+        { "qxmc": "彭水苗族土家族自治县", "qxmj": "289.28", "qxsl": null },
+        { "qxmc": "南川区", "qxmj": "949.04", "qxsl": null },
+        { "qxmc": "江津区", "qxmj": "6123.56", "qxsl": null },
+        { "qxmc": "涪陵区", "qxmj": "2273.35", "qxsl": null },
+        { "qxmc": "丰都县", "qxmj": "898.22", "qxsl": null },
+        { "qxmc": "渝中区", "qxmj": "5870.92", "qxsl": null },
+        { "qxmc": "黔江区", "qxmj": "871.26", "qxsl": null },
+        { "qxmc": "长寿区", "qxmj": "4923.81", "qxsl": null },
+        { "qxmc": "云阳县", "qxmj": "401.35", "qxsl": null },
+        { "qxmc": "万州区", "qxmj": "3279.75", "qxsl": null },
+        { "qxmc": "酉阳土家族苗族自治县", "qxmj": "502.60", "qxsl": null },
+        { "qxmc": "永川区", "qxmj": "2614.98", "qxsl": null },
+        { "qxmc": "秀山土家族苗族自治县", "qxmj": "367.77", "qxsl": null },
+        { "qxmc": "高新区", "qxmj": "1995.08", "qxsl": null },
+        { "qxmc": "九龙坡区", "qxmj": "2767.38", "qxsl": null },
+        { "qxmc": "巫溪县", "qxmj": "158.76", "qxsl": null },
+        { "qxmc": "潼南区", "qxmj": "1511.19", "qxsl": null },
+        { "qxmc": "铜梁区", "qxmj": "1415.73", "qxsl": null },
+        { "qxmc": "北碚区", "qxmj": "8014.74", "qxsl": null },
+        { "qxmc": "大足区", "qxmj": "2125.53", "qxsl": null },
+        { "qxmc": "荣昌区", "qxmj": "2068.96", "qxsl": null },
+        { "qxmc": "綦江区", "qxmj": "1358.23", "qxsl": null },
+        { "qxmc": "梁平区", "qxmj": "1009.85", "qxsl": null },
+        { "qxmc": "两江新区", "qxmj": "22653.45", "qxsl": null },
+        { "qxmc": "开州区", "qxmj": "727.73", "qxsl": null },
+        { "qxmc": "合川区", "qxmj": "2696.45", "qxsl": null },
+        { "qxmc": "渝北区", "qxmj": "683.07", "qxsl": null },
+        { "qxmc": "奉节县", "qxmj": "216.27", "qxsl": null },
+        { "qxmc": "垫江县", "qxmj": "1021.76", "qxsl": null },
+        { "qxmc": "璧山区", "qxmj": "2202.26", "qxsl": null },
+        { "qxmc": "城口县", "qxmj": "21.58", "qxsl": null },
+        { "qxmc": "石柱土家族自治县", "qxmj": "523.36", "qxsl": null }
+    ],
+    "topBar1": [{
+            "title": "规划用地面积",
+            "data": [{
+                "label": "面积",
+                "key": "mj",
+                "value": 93005.09,
+                "dw": "公顷"
+            }]
+        },
+        {
+            "title": "已取得征转批文面积",
+            "data": [{
+                "label": "面积",
+                "key": "mj",
+                "value": 78194.55,
+                "dw": "公顷"
+            }]
+        },
+        {
+            "title": "已达到供地条件面积",
+            "data": [{
+                "label": "面积",
+                "key": "mj",
+                "value": 57760.14,
+                "dw": "公顷"
+            }]
+        },
+        {
+            "title": "已实施供地面积",
+            "data": [{
+                "label": "面积",
+                "key": "mj",
+                "value": 47751.69,
+                "dw": "公顷"
+            }]
+        },
+        {
+            "title": "已建成城镇建设用地面积",
+            "data": [{
+                "label": "34819.16 ",
+                "key": "mj",
+                "value": 47751.69,
+                "dw": "公顷"
+            }]
+        },
+        {
+            "title": "批而未供面积",
+            "data": [{
+                "label": "面积",
+                "key": "mj",
+                "value": 30440.51,
+                "dw": "公顷"
+            }]
+        },
+        {
+            "title": "已供在建面积",
+            "data": [{
+                "label": "面积",
+                "key": "mj",
+                "value": 12873.36
+            }]
+        }
+    ],
+    "topBar2": [{
+            "title": "规划用地面积",
+            "data": [{
+                    "label": "面积",
+                    "key": "mj",
+                    "value": 93005.09
+                },
+                {
+                    "label": "区县",
+                    "key": "df",
+                    "value": "渝北"
+                }
+            ]
+        },
+        {
+            "title": "已取得征转批文面积",
+            "data": [{
+                    "label": "面积",
+                    "key": "mj",
+                    "value": 78194.55
+                },
+                {
+                    "label": "区县",
+                    "key": "df",
+                    "value": "江北"
+                }
+            ]
+        },
+        {
+            "title": "已达到供地条件面积",
+            "data": [{
+                    "label": "面积",
+                    "key": "mj",
+                    "value": 57760.14
+                },
+                {
+                    "label": "区县",
+                    "key": "df",
+                    "value": "梁平"
+                }
+            ]
+        },
+        {
+            "title": "已实施供地面积",
+            "data": [{
+                    "label": "面积",
+                    "key": "mj",
+                    "value": 47751.69
+                },
+                {
+                    "label": "区县",
+                    "key": "df",
+                    "value": "璧山"
+                }
+            ]
+        },
+        {
+            "title": "已建成城镇建设用地面积",
+            "data": [{
+                    "label": "面积",
+                    "key": "mj",
+                    "value": 34819.16
+                },
+                {
+                    "label": "区县",
+                    "key": "df",
+                    "value": "潼南"
+                }
+            ]
+        },
+        {
+            "title": "批而未供面积",
+            "data": [{
+                    "label": "面积",
+                    "key": "mj",
+                    "value": 30440.51
+                },
+                {
+                    "label": "区县",
+                    "key": "df",
+                    "value": "渝北"
+                }
+            ]
+        }
+    ],
+    "page1": [
+        { "name": "张三1", "height": 174, "weight": 74, "age": 18, "sr": 2888 },
+        { "name": "张三2", "height": 154, "weight": 64, "age": 23, "sr": 3333 },
+        { "name": "张三3", "height": 165, "weight": 56, "age": 33, "sr": 2345 },
+        { "name": "张三4", "height": 187, "weight": 87, "age": 44, "sr": 4444 },
+        { "name": "张三5", "height": 166, "weight": 99, "age": 34, "sr": 3456 },
+        { "name": "张三6", "height": 167, "weight": 73, "age": 25, "sr": 7532 },
+        { "name": "张三7", "height": 145, "weight": 68, "age": 26, "sr": 8000 },
+        { "name": "张三8", "height": 187, "weight": 65, "age": 18, "sr": 12345 },
+        { "name": "张三9", "height": 144, "weight": 69, "age": 26, "sr": 4567 },
+        { "name": "张三10", "height": 155, "weight": 73, "age": 66, "sr": 6785 }
+    ],
+    "details": [{
+        "name": "张三1",
+        "height": "174cm",
+        "weight": "74kg",
+        "age": "18",
+        "sr": "8888",
+        "xl": "大学",
+        "zzbj": "无党派人士",
+        "jg": "重庆市",
+        "byxx": "喜马拉雅山冰窟窿大学"
+    }]
+}
